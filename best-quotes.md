@@ -1,5 +1,9 @@
 # Best Quotes
 
+Hurt people hurt people
+
+Experience is what you get when you don’t get what you want
+
 “Happiness is not having what you want, but wanting what you have”&#x20;
 
 “Whether you get what you want depends on what you want”
