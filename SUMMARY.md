@@ -1,4 +1,6 @@
 # Table of contents
 
-* [added\_via\_gitbook](README.md)
-* [added\_via\_github](added\_via\_github.md)
+* [(landing page)](README.md)
+* [Best Quotes](best-quotes.md)
+* [About Us](about-us.md)
+* [Meetup.com Group](meetup.com-group.md)
