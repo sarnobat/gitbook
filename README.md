@@ -1,6 +1,7 @@
 ---
-description: I don't think this shows up in Github
+description: This gets added to README.md (which doesn't seem configurable)
 ---
 
 # added\_via\_gitbook
 
+Hello world Sridhar
